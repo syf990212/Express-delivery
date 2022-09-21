@@ -1,0 +1,1 @@
+"D:\websyf\WEIXIN\kaifa\微信web开发者工具\cli.bat" cloud functions deploy --e cloudyou-7gg00qfu4ed90345 --n quickstartFunctions --r --project "D:\websyf\WEIXIN\syf\project" --report_first --report

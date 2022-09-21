@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "cloud-tip-modal": "/components/cloudTipModal/index"
+
+  },
+  "enablePullDownRefresh": true,
+  "backgroundColor": "#666",
+  "backgroundTextStyle": "light"
+}
